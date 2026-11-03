@@ -856,6 +856,7 @@ img{
     .J, .Q{
         grid-template-columns: repeat(3, 1fr);
     }
+    
     .D{
         grid-template-columns: repeat(2, 1fr);
     }

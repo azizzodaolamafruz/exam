@@ -874,7 +874,7 @@ img{
         flex: none;
         width: 200px;
     }
-    
+
     .d{
         padding: 90px 0;
     }
@@ -882,6 +882,7 @@ img{
         font-size: 22px;
         line-height: 32px;
     }
+    
     .e .t{
         font-size: 26px;
     }

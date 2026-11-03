@@ -865,7 +865,7 @@ img{
         overflow-x: auto;
         gap: 16px;
     }
-    
+
     .E .i{
         flex: none;
         width: 220px;
@@ -874,6 +874,7 @@ img{
         flex: none;
         width: 200px;
     }
+    
     .d{
         padding: 90px 0;
     }

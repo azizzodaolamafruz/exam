@@ -856,7 +856,7 @@ img{
     .J, .Q{
         grid-template-columns: repeat(3, 1fr);
     }
-    
+
     .D{
         grid-template-columns: repeat(2, 1fr);
     }
@@ -865,6 +865,7 @@ img{
         overflow-x: auto;
         gap: 16px;
     }
+    
     .E .i{
         flex: none;
         width: 220px;
